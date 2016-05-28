@@ -1,0 +1,4 @@
+at cdr deck
+at cdp diaglist.obj
+at lpt diaglist.lst
+b cdr
